@@ -1,2 +1,2 @@
-# clouds-hub
-this is a usb hub,a simple one but serves its task
+## clouds-hub
+this is a 7$ simple usb hub,looks cool,is cool
